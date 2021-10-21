@@ -1,8 +1,30 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+
+#name{
+    color:rgb(89, 0, 255);
+}
+
+.country{
+    font-style: italic;
+}
+
+img{
+    width: 130px;
+    height: 130px;
+    margin-left: 45%;
+}
+
+body{
+    background-color:rgb(214, 125, 125);
+}
+
+#color{
+    color: rgb(255, 11, 11);
 }
